@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container1 {
+    background-image: url("https://res.cloudinary.com/ddrjgxh6e/image/upload/v1701241433/copy2_yxhd7l.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+
+.main-heading {
+    font-family: "Bree Serif";
+    font-size: 47px;
+    text-align: center;
+    color: #000066;
+}
+
+.details-container {
+    text-align: center;
+    font-family: 'Roboto';
+    font-size: 20px;
+}
+
+.indiv-container {
+    margin: 3px;
+}
+
+.button {
+    width: 20%;
+}
+
+.heading {
+    font-family: "Bree Serif";
+    font-size: 47px;
+    text-align: center;
+    color: #000066;
+}
+
+.bg-container2 {
+    background-image: url("https://res.cloudinary.com/ddrjgxh6e/image/upload/v1701245613/top-view-workspace-with-copy-space_23-2148236854_upe9vn.jpg");
+    background-size: cover;
+    height: 100vh;
+}
